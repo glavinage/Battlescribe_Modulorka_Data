@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Unofficial Modulorka" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="MODULORKA!.gstz" dataType="gamesystem" dataId="4073-df70-0a47-c7fb" dataName="MODULORKA!" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Wargang.catz" dataType="catalogue" dataId="ca97-0fee-3694-a389" dataName="Wargang" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
